@@ -1,0 +1,28 @@
+{
+  "name": "ironman-api",
+  "version": "1.0.0",
+  "description": "A scraper to download media from Pinterest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ironman", "api","pinterestdl","pinterest","pinterest-dl","pinterest-downloader","pinterest-downloader-api","scraper","pinterest-scraper"],
+  "author": "IRON-M4N",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "jsdom": "^24.0.0",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRON-M4N/ironman-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IRON-M4N/ironman-api/issues"
+  },
+  "homepage": "https://github.com/IRON-M4N/ironman-api#readme"
+}
