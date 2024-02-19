@@ -1,12 +1,12 @@
 {
   "name": "ironman-api",
   "version": "1.0.2",
-  "description": "A scraper to download media from Pinterest",
+  "description": "An npm with some features",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ironman", "api","pinterestdl","pinterest","pinterest-dl","pinterest-downloader","pinterest-downloader-api","scraper","pinterest-scraper"],
+  "keywords": ["ironman-api", "api","pinterest-dl","pinterest","pinterest-downloader","Genshin-Impact","Genshin-Impact-API","Genshin-Impact-scraper"],
   "author": "IRON-M4N",
   "license": "Apache-2.0",
   "dependencies": {
