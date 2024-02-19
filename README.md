@@ -13,7 +13,7 @@ npm install ironman-api
 To use it simply require it in your code and call the relevant functions. Here's a basic example:
 ```
 ```js
-const pinterestdl = require('ironman-api');
+const { genshinCH } = require('ironman-api');
 ```
 
 ### Example
@@ -21,7 +21,7 @@ const pinterestdl = require('ironman-api');
 - You can use https://pin.it and https://in.pinterest.com URLs
 
 ```js
-const pinterestdl= require('ironman-api');
+const { pinterestdl } = require('ironman-api');
 
 (async () => {
   console.log(await pinterestdl('https://in.pinterest.com/pin/617204323960160868/'));
