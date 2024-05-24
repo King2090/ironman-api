@@ -52,12 +52,12 @@ const { genshinCH } = require('ironman-api');
 #### Output
 ```js
 {
-   "name":"Furina",
-   "title":"Endless Solo of Solitude",
+   "name":"Madara",
+   "title":"Ghost of the uchiha",
    "vision":"Hydro",
-   "weapon":"Sword",
-   "gender":"Female",
-   "nation":"Fontaine",
+   "weapon":"Sosanoo",
+   "gender":"male",
+   "nation":"Uchiha",
    "affiliation":"Court of Fontaine",
    "rarity":5,
    "release":"2023-11-08",
